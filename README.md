@@ -1,6 +1,6 @@
 # Kien Job Application
 
-Portfolio for Job Application
+Portfolio for Job Application by using React Native, Rapid API
 
 # Application use Expo Router
 

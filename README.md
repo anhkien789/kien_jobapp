@@ -1,4 +1,8 @@
-# Expo Router Example
+# Kien Job Application
+
+Portfolio for Job Application
+
+#Application use Expo Router
 
 Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
 
